@@ -47,6 +47,7 @@ padding-bottom:50px;
 .profile img
 {
 height:400px;
+background-attachment:fixed;
 }
 .navbar
 {
