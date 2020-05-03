@@ -44,10 +44,10 @@ color:#fff;
 padding-top:100px;
 padding-bottom:50px;
 }
-.profile img
+.profile-img
 {
-height:400px;
-background-attachment:fixed;
+
+img-attachment:fixed;
 }
 .navbar
 {
